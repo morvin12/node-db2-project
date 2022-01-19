@@ -22,7 +22,7 @@ const cars = [
         model: 'GT3',
         mileage: '120',
         title: 'clean',
-        transmission: 'manual',
+        transmission: 'pdk',
     },
 ]
 
