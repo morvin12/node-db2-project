@@ -1,7 +1,7 @@
 // STRETCH
 const cars = [ 
     {
-        vin: '12345678910121',
+        vin: 'WP0BA2971FL015079',
         make: 'porsche',
         model: 'GT3RS',
         mileage: '1200',
@@ -9,7 +9,7 @@ const cars = [
         transmission: 'manual',
     },
     {
-        vin: '12345678910122',
+        vin: 'WP0AD299082783293',
         make: 'porsche',
         model: 'GT2RS',
         mileage: '878',
@@ -17,7 +17,7 @@ const cars = [
         transmission: 'manual',
     },
     {
-        vin: '12345678910123',
+        vin: 'WP0CA29935S755534',
         make: 'porsche',
         model: 'GT3',
         mileage: '120',
